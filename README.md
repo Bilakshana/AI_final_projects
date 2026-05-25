@@ -25,7 +25,9 @@ confusion matrices, and live Streamlit demos.
 ## 🗂️ Track 1: Waste Image Classifier
 
 **Repo:** https://github.com/Bilakshana/ai_final_project_track1  
+
 **Live App:** https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app
+
 **Demo Recording:** `[paste your YouTube/Drive recording link here]`
 
 ### What it does
