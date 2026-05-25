@@ -17,17 +17,15 @@ confusion matrices, and live Streamlit demos.
 | Track | Project | Tech Stack | Live App | Repo | Demo |
 |-------|---------|------------|----------|------|------|
 | Track 1 | ♻️ Waste Image Classifier | CNN, MobileNetV2, TensorFlow | [Live App](https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track1) | [Recording](#) |
-| Track 2 | 🎬 Sentiment Analysis | TF-IDF, Logistic Regression, NLP | [Live App](#) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_2) | [Recording](#) |
-| Track 3 | 🧠 RAG Chatbot | FAISS, LLaMA 3, Groq, Sentence Transformers | [Live App](#) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_3) | [Recording](#) |
-
-> Replace each `#` with your Streamlit app link and recording link once available.
+| Track 2 | 🎬 Sentiment Analysis | TF-IDF, Logistic Regression, NLP | [Live App](https://aifinalprojecttrack2-bilakshana-neu.streamlit.app/) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_2) | [Recording](#) |
+| Track 3 | 🧠 RAG Chatbot | FAISS, LLaMA 3, Groq, Sentence Transformers | [Live App](https://aifinalprojecttrack3-bilakshana-neu.streamlit.app/) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_3) | [Recording](#) |
 
 ---
 
-## 🗂️ Track 1 — Waste Image Classifier
+## 🗂️ Track 1: Waste Image Classifier
 
 **Repo:** https://github.com/Bilakshana/ai_final_project_track1  
-**Live App:** https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app  
+**Live App:** https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app
 **Demo Recording:** `[paste your YouTube/Drive recording link here]`
 
 ### What it does
@@ -54,10 +52,10 @@ streamlit run app.py   # Launch the demo
 
 ---
 
-## 🗂️ Track 2 — IMDb Sentiment Analysis
+## 🗂️ Track 2 : IMDb Sentiment Analysis
 
 **Repo:** https://github.com/Bilakshana/ai_final_project_track_2  
-**Live App:** `[paste your Streamlit app link here]`  
+**Live App:** https://aifinalprojecttrack2-bilakshana-neu.streamlit.app
 **Demo Recording:** `[paste your YouTube/Drive recording link here]`
 
 ### What it does
@@ -84,10 +82,10 @@ streamlit run app.py   # Launch the demo
 
 ---
 
-## 🗂️ Track 3 — Domain-Specific RAG Chatbot
+## 🗂️ Track 3 : Domain-Specific RAG Chatbot
 
 **Repo:** https://github.com/Bilakshana/ai_final_project_track_3  
-**Live App:** `[paste your Streamlit app link here]`  
+**Live App:** https://aifinalprojecttrack3-bilakshana-neu.streamlit.app 
 **Demo Recording:** `[paste your YouTube/Drive recording link here]`
 
 ### What it does
@@ -147,6 +145,7 @@ streamlit run app.py
 
 **Bilakshana Neupane**  
 GitHub: [github.com/Bilakshana](https://github.com/Bilakshana)
+LinkedIn: https://www.linkedin.com/in/bilakshana-neupane
 
 ---
 
@@ -154,5 +153,5 @@ GitHub: [github.com/Bilakshana](https://github.com/Bilakshana)
 
 - All three apps are deployed and publicly accessible via Streamlit Cloud
 - Track 3 requires a free Groq API key — get one at [console.groq.com](https://console.groq.com)
-- Datasets are not included in repos due to size — download links provided above
+- Datasets are not included in repos due to size, download links provided above
 - Model files for Track 1 are included directly in the GitHub repo
