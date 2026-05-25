@@ -57,7 +57,9 @@ streamlit run app.py   # Launch the demo
 ## 🗂️ Track 2 : IMDb Sentiment Analysis
 
 **Repo:** https://github.com/Bilakshana/ai_final_project_track_2  
+
 **Live App:** https://aifinalprojecttrack2-bilakshana-neu.streamlit.app
+
 **Demo Recording:** `[paste your YouTube/Drive recording link here]`
 
 ### What it does
@@ -86,8 +88,10 @@ streamlit run app.py   # Launch the demo
 
 ## 🗂️ Track 3 : Domain-Specific RAG Chatbot
 
-**Repo:** https://github.com/Bilakshana/ai_final_project_track_3  
+**Repo:** https://github.com/Bilakshana/ai_final_project_track_3 
+
 **Live App:** https://aifinalprojecttrack3-bilakshana-neu.streamlit.app 
+
 **Demo Recording:** `[paste your YouTube/Drive recording link here]`
 
 ### What it does
