@@ -39,7 +39,7 @@ Upload any waste photo and instantly get a prediction with confidence scores and
 - MobileNetV2 with transfer learning — ~88–92% accuracy
 
 ### Dataset
-TrashNet — 2,527 images across 6 classes  
+TrashNet : 2,527 images across 6 classes  
 [Kaggle Dataset](https://www.kaggle.com/datasets/feyzazkefe/trashnet)
 
 ### How to run locally
@@ -151,6 +151,7 @@ streamlit run app.py
 
 **Bilakshana Neupane**  
 GitHub: [github.com/Bilakshana](https://github.com/Bilakshana)
+
 LinkedIn: https://www.linkedin.com/in/bilakshana-neupane
 
 ---
