@@ -150,6 +150,7 @@ streamlit run app.py
 ## 👤 Author
 
 **Bilakshana Neupane**  
+
 GitHub: [github.com/Bilakshana](https://github.com/Bilakshana)
 
 LinkedIn: https://www.linkedin.com/in/bilakshana-neupane
