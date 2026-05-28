@@ -16,7 +16,7 @@ confusion matrices, and live Streamlit demos.
 
 | Track | Project | Tech Stack | Live App | Repo | Demo |
 |-------|---------|------------|----------|------|------|
-| Track 1 | ♻️ Waste Image Classifier | CNN, MobileNetV2, TensorFlow | [Live App](https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track1) | [Recording](#) |
+| Track 1 | ♻️ Waste Image Classifier | CNN, MobileNetV2, TensorFlow | [Live App](https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track1) | [Recording](https://drive.google.com/file/d/1zmDULiE6z9uLao5g6BdNb5_r5aTkoVzO/view?usp=sharing) |
 | Track 2 | 🎬 Sentiment Analysis | TF-IDF, Logistic Regression, NLP | [Live App](https://aifinalprojecttrack2-bilakshana-neu.streamlit.app/) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_2) | [Recording](#) |
 | Track 3 | 🧠 RAG Chatbot | FAISS, LLaMA 3, Groq, Sentence Transformers | [Live App](https://aifinalprojecttrack3-bilakshana-neu.streamlit.app/) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_3) | [Recording](#) |
 
@@ -28,7 +28,7 @@ confusion matrices, and live Streamlit demos.
 
 **Live App:** https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app
 
-**Demo Recording:** `[paste your YouTube/Drive recording link here]`
+**Demo Recording:** https://drive.google.com/file/d/1zmDULiE6z9uLao5g6BdNb5_r5aTkoVzO/view?usp=sharing
 
 ### What it does
 Classifies waste images into 6 categories: Cardboard, Glass, Metal, Paper, Plastic, Trash.
