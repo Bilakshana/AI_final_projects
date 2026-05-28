@@ -1,4 +1,4 @@
-# 🤖 AI Final Projects — Broadway Infosys
+# 🤖 AI Final Projects
 
 A collection of three end-to-end AI/ML projects built, trained, evaluated, and deployed as interactive web applications on Streamlit Cloud.
 
