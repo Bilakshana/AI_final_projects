@@ -14,8 +14,8 @@ All three projects include full training pipelines, evaluation metrics, confusio
 
 | Track | Project | Tech Stack | Live App | Repo | Demo |
 |-------|---------|------------|----------|------|------|
-| Track 1 | ♻️ Waste Image Classifier | CNN, MobileNetV2, TensorFlow | [Live App](https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track1) | [Recording](#) |
-| Track 2 | 🎬 Sentiment Analysis | TF-IDF, Logistic Regression, NLP | [Live App](https://aifinalprojecttrack2-bilakshana-neu.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_2) | [Recording](#) |
+| Track 1 | ♻️ Waste Image Classifier | CNN, MobileNetV2, TensorFlow | [Live App](https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track1) | [Recording](https://drive.google.com/file/d/1zmDULiE6z9uLao5g6BdNb5_r5aTkoVzO/view?usp=sharing) |
+| Track 2 | 🎬 Sentiment Analysis | TF-IDF, Logistic Regression, NLP | [Live App](https://aifinalprojecttrack2-bilakshana-neu.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_2) | [Recording](https://drive.google.com/file/d/1HDKS4sQcoLHWHse33oR9YMQ7LEaA2Air/view?usp=sharing) |
 | Track 3 | 🧠 RAG Chatbot | FAISS, LLaMA 3, Groq, Sentence Transformers | [Live App](https://aifinalprojecttrack3-bilakshana-neu.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_3) | [Recording](#) |
 
 ---
@@ -105,7 +105,7 @@ streamlit run app.py   # Launch the demo
 
 **Live App:** https://aifinalprojecttrack2-bilakshana-neu.streamlit.app 
 
-**Demo Recording:** 
+**Demo Recording:** https://drive.google.com/file/d/1HDKS4sQcoLHWHse33oR9YMQ7LEaA2Air/view?usp=sharing
 
 ### 🎯 Objective
 Build a sentiment analysis system that classifies IMDb movie reviews as Positive or Negative using NLP techniques.
