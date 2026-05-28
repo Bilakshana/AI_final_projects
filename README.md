@@ -16,7 +16,7 @@ All three projects include full training pipelines, evaluation metrics, confusio
 |-------|---------|------------|----------|------|------|
 | Track 1 | ♻️ Waste Image Classifier | CNN, MobileNetV2, TensorFlow | [Live App](https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track1) | [Recording](https://drive.google.com/file/d/1zmDULiE6z9uLao5g6BdNb5_r5aTkoVzO/view?usp=sharing) |
 | Track 2 | 🎬 Sentiment Analysis | TF-IDF, Logistic Regression, NLP | [Live App](https://aifinalprojecttrack2-bilakshana-neu.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_2) | [Recording](https://drive.google.com/file/d/1HDKS4sQcoLHWHse33oR9YMQ7LEaA2Air/view?usp=sharing) |
-| Track 3 | 🧠 RAG Chatbot | FAISS, LLaMA 3, Groq, Sentence Transformers | [Live App](https://aifinalprojecttrack3-bilakshana-neu.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_3) | [Recording](#) |
+| Track 3 | 🧠 RAG Chatbot | FAISS, LLaMA 3, Groq, Sentence Transformers | [Live App](https://aifinalprojecttrack3-bilakshana-neu.streamlit.app) | [GitHub](https://github.com/Bilakshana/ai_final_project_track_3) | [Recording](https://drive.google.com/file/d/1Z7O3Rg-wTthfxOSPlxhB5zxH-MEqGuFX/view?usp=sharing) |
 
 ---
 
@@ -169,7 +169,7 @@ streamlit run app.py   # Launch the demo
 
 **Live App:** https://aifinalprojecttrack3-bilakshana-neu.streamlit.app 
 
-**Demo Recording:** 
+**Demo Recording:** https://drive.google.com/file/d/1Z7O3Rg-wTthfxOSPlxhB5zxH-MEqGuFX/view?usp=sharing
 
 ### 🎯 Objective
 Build a Retrieval-Augmented Generation chatbot that answers questions grounded in user-uploaded domain-specific documents (PDF or TXT), eliminating hallucination by injecting only real document content into the LLM prompt.
