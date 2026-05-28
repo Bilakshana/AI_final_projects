@@ -23,7 +23,9 @@ All three projects include full training pipelines, evaluation metrics, confusio
 ## 🗂️ Track 1 : Smart Waste Image Classifier
 
 **Repo:** https://github.com/Bilakshana/ai_final_project_track1  
+
 **Live App:** https://aifinalprojecttrack1-bilakshana-neupane.streamlit.app 
+
 **Demo Recording:** https://drive.google.com/file/d/1zmDULiE6z9uLao5g6BdNb5_r5aTkoVzO/view?usp=sharing
 
 ### 🎯 Objective
@@ -100,7 +102,9 @@ streamlit run app.py   # Launch the demo
 ## 🗂️ Track 2 : Sentiment Analysis System
 
 **Repo:** https://github.com/Bilakshana/ai_final_project_track_2
+
 **Live App:** https://aifinalprojecttrack2-bilakshana-neu.streamlit.app 
+
 **Demo Recording:** 
 
 ### 🎯 Objective
@@ -162,8 +166,10 @@ streamlit run app.py   # Launch the demo
 ## 🗂️ Track 3 : Domain-Specific RAG Chatbot
 
 **Repo:** https://github.com/Bilakshana/ai_final_project_track_3 
+
 **Live App:** https://aifinalprojecttrack3-bilakshana-neu.streamlit.app 
-**Demo Recording:** `[paste link here]`
+
+**Demo Recording:** 
 
 ### 🎯 Objective
 Build a Retrieval-Augmented Generation chatbot that answers questions grounded in user-uploaded domain-specific documents (PDF or TXT), eliminating hallucination by injecting only real document content into the LLM prompt.
@@ -275,6 +281,3 @@ GitHub: [github.com/Bilakshana](https://github.com/Bilakshana)
 - TrashNet Dataset: https://github.com/garythung/trashnet
 - IMDb Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
----
-
-> *All code was written and understood by the author. External libraries are cited above. No code was copied without understanding.*
